@@ -1,4 +1,5 @@
 def square_array(array)
+    binding.pry
     new_array = []
     i = 0
     while i < array.length
